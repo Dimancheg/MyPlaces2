@@ -10,7 +10,7 @@ import UIKit
 class MainViewController: UITableViewController {
     
     
-    let parkName = ["Парк Бэ-Иврит", "Парк А-Манхигим", "Парк Ган-аир"]
+    let parkName = ["Парк Бэ-Иврит", "Парк А-Манхигим", "Парк Ган-аир", "Парк Ха-музыка"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
